@@ -40,7 +40,7 @@ Maintaining the security of your account
 We take security seriously and implement measures to protect your information:
 
 Passwords are securely hashed, not stored in plain text
-Sensitive tokens (like Instagram access tokens) are encrypted
+Sensitive tokens are encrypted
 We use secure authentication methods for all user sessions
 Regular security updates are applied to our systems
 
